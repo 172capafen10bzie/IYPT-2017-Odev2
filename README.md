@@ -17,7 +17,7 @@ Son erişim tarihi : 10.10.2007
 # Giriş (Introduction)
 Flüt enstrümanlar arasında birçok çeşidi olan bir çalgıdır. Baş (ağızlık), gövde ve kuyruk olmak üzere üç parçadan oluşan, üflemeli bir çalgı türüdür. Başlık kısmından üflenerek flüte ses verilir.
 
-Ağızlığın kenarındaki delikten üflenen hava kenara çarparak kırılır ve ses titreşimlerini oluşturur. Ses delikleri titreşen hava sütununun genişliğini ve sesin yüksekliğini belirlemektedir. Flüt ile çifte dil vuruşlu notalar, diatonik, kromatik, tiril ve tirillemeler, bağlı veya dilli tüm ezgiler çıkabilmektedir. Çeşitli orkestralarda flüt kullanımına rastlanır ve şarkıya farklı ezgiler katmak açısından oldukça hoş bir sesi vardır. İnce bir sesi bulunur.Amacımız da farklı malzemelerden farklı frekanslarda ses çıkaran flütler yapmak.Bu deneyde kullanacağımız malzemeler materyal ve yöntem bölümünde bulunmaktadır.
+Ağızlığın kenarındaki delikten üflenen hava kenara çarparak kırılır ve ses titreşimlerini oluşturur. Ses delikleri titreşen hava sütununun genişliğini ve sesin yüksekliğini belirlemektedir. Flüt ile çifte dil vuruşlu notalar, diatonik, kromatik, tiril ve tirillemeler, bağlı veya dilli tüm ezgiler çıkabilmektedir. Çeşitli orkestralarda flüt kullanımına rastlanır ve şarkıya farklı ezgiler katmak açısından oldukça hoş bir sesi vardır. İnce bir sesi bulunur.Amacımız da farklı malzemelerden farklı frekanslarda ses çıkaran flütler yapmak.Bu deneyde kullanacağımız malzemeler materyal ve yöntem bölümünde bulunmaktadır. 
 
 KAYNAKÇA:
 http://bilgihanem.com/flutun-icadi-flut-nedir/
