@@ -1,88 +1,68 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
 
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
 
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
+# FLÜT
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
 
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
+Seçtiğimiz IYPT sorumuzun (2008-9.soru) içeriği şöyledir:"Bir ucu açık olan bir tüpün yanına bir delik açın ve açık uca üfleyerek bir ses çıkarın. Flüt sesinizin tonunu ve deliğin konumuna ve çapına nasıl bağımlı olduğunu araştırın." Biz de bu yönergeler doğrultusunda kendi flütümüzü oluşturacağız. Bunun için bize gerekenler içi boş ve farklı uzunluktaki tüpler. Amacımız tüpleri çatlatmadan delip,deliklerin çaplarıyla kamıştan üflediğimizde çıkan sesin desibelini karşılaştırmak olacak. Böylece tüpten çıkan sesin yüksekliğini,şiddetini,tonunu ve müzikte hangi notaya karşılık geldiğini belirleyeceğiz.Aynı zamanda projemize örnek olması amacıyla kültürümüzün de bir parçası olan "ney" adı verilen ve kamıştan yapılan üflemeli çalgıyı kullanacağız. Neyi üfleyerek çıkardığımız notaları kendi flütümüzdeki notalarla karşılaştırabiliriz.Tüpü delerken ya da notaları belirlerken yaptığımız işlemlerin sağlamasını ney kullanarak yapabiliriz.Tüpe açtığımız deliğin üflediğimiz (ağız) kısmına olan uzaklığına göre değişen özelliklerini belirleyeceğiz. Farklı uzunluklardaki tüplerden yaptığımız flütlerin çıkardığı seslerin farklılıklarını da belirleyeceğiz.Tüplere açtığımız delikleri parmağımızla kapatarak bir delikten natürel olmayan yani diyez ve bemol notalar da çıkarabiliriz.Ayrıca iki farklı maddeden yapılmış(bağımsız değişken) tüplere delik açıp deliklerin konumunu ve büyüklüğünü sabit tutup aynı notanın frekanslarını(bağımsız değişken) karşılaştırırız.
 
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
+Kaynakçalar
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Özatmaca,D."EV YAPIMI ÜFLEMELİ MÜZİK ALETİ FLÜT YAPILIŞI" NAZARCA.COM. http://nazarca.com/el-yapimi-uflemeli-muzik-aleti-fulut-yapilisi
+Son erişim tarihi : 13.07.2014
+Volkan. "Meraklısı için bir deney" flütçü.net . http://www.flutcu.net/forum/forum_posts.asp?TID=752
+Son erişim tarihi : 10.10.2007
+"pan flütü". Ev Yapımı Bilim . http://www.evyapimibilim.net/node/163
+
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Flüt enstrümanlar arasında birçok çeşidi olan bir çalgıdır. Baş (ağızlık), gövde ve kuyruk olmak üzere üç parçadan oluşan, üflemeli bir çalgı türüdür. Başlık kısmından üflenerek flüte ses verilir.
+
+Ağızlığın kenarındaki delikten üflenen hava kenara çarparak kırılır ve ses titreşimlerini oluşturur. Ses delikleri titreşen hava sütununun genişliğini ve sesin yüksekliğini belirlemektedir. Flüt ile çifte dil vuruşlu notalar, diatonik, kromatik, tiril ve tirillemeler, bağlı veya dilli tüm ezgiler çıkabilmektedir. Çeşitli orkestralarda flüt kullanımına rastlanır ve şarkıya farklı ezgiler katmak açısından oldukça hoş bir sesi vardır. İnce bir sesi bulunur.Amacımız da farklı malzemelerden farklı frekanslarda ses çıkaran flütler yapmak.Bu deneyde kullanacağımız malzemeler materyal ve yöntem bölümünde bulunmaktadır.
+
+KAYNAKÇA:
+http://bilgihanem.com/flutun-icadi-flut-nedir/
+http://www.bilgiustam.com/flut-nedir-icadi-tarihcesi/
+http://diyot.net/frekans-nedir/
+
 # Materyal ve Yöntem (Experimental Setup)
+Projemizin 2.aşaması deney aşamasıdır.Bu bölümde deney yapmak için izleyeceğimiz yol ve yöntemi,veri toplama ve materyal hazırlama aşamalarını anlatacağız.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+1.VERİ TOPLAMA
+Deneyi yapmaya başlamadan önce deneyin yapılışı hakkında internetten araştırma yapıp,videolar izledik.Daha sonra bunları uygulamaya koyduk ve deneyimizi yapmaya koyulduk.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+2.DENEY ORTAMI
+Üçümüzün ortak buluştuğu alan sınıftı ve öğle teneffüsünde sınıf sessiz iken deneyimizi yaptık.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+3.DENEY MALZEMELERİ
+- 2 adet pipet (pic dosyasındaki pembe pipetler,birisi 14 birisi 28 cm uzunluğunda olan deliksiz pipetlerin çapı 1.20 cm'dir.)
+- 2 adet pipet (pic dosyasındaki mavi pipetler,28 cm uzunluğundaki pipetler delikli,deliklerden birinin yarıçapı 0,50 cm diğerinin 0,25 cm'dir.İki pipetin de çapları 1.20 cm.)
+- 2 adet boru (pic dosyasındaki yeşil borular,birinin boyu 22 cm diğerinin 44 cm.)
+- Cetvel
+- Kalem
+- Frekans ölçmek için akord aleti
+- Makas
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+4.DENEYİ YAPANLAR VE DENEYİN NE KADAR SÜRDÜĞÜ
+Deneyi ben (Eda),Zeynep Nur ve İrem yaptık.Deneyimiz yaklaşık 1 saat sürdü.
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
-# Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+5.YÖNTEM
+Öncelikle pembe renkli pipetleri birisi 14,diğeri 28 cm olacak şekilde ölçerek kestik.Ney üfler gibi doğru açı ile pipetlerimize üfledik.Bu sırada akor aletimiz ile frekanslarını ölçtük.İki pipet arasında 30 Hertz ses farkı oluştu,kısa olan pipet daha ince bir ses çıkardı.Daha sonra uzunlukları aynı olan mavi pipetleri aldık,burada amacımız delik büyüklüğünün sese etkisini ölçmek olacaktı.Bir pipetimize 0,50 cm'lik diğerine ise 0,25 cm'lik delik açtık ve üfledik .Bu iki pipet arasında da yine 30 Hertz'lik ses farkı oluştu.0,25 cm'lik pipet daha ince bir ses çıkardı.Daha sonra yeşil boruları alıp birisini 22,diğerini 44 cm olarak kestik.Aynı şekilde bu borulara da üfledik ve aradaki ses farkı 20 Hertz oldu.22 cm'lik boru daha ince bir ses çıkardı.
 
 
-# Sonuç ve Tartışma (Conclusion and Discussion) 
-Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
+
+
+# Bulgular (Results) 
+Deneyimiz kısmen başarıyla sonuçlandı.Yaptığımız ilk deneye rağmen ödevimizi gerçekleştirebildik.Boyun ve çapın sese olan etkisini gözlemleyebildik.Gözlemlediklerimiz:
+- Delik yarıçapı küçüldükçe ses incelir.
+- Borunun boyu kısaldıkça ses incelir.
+Deneyimizi iyileştirmek için yapacaklarımız:
+- Daha iyi ölçüm yapan bir akord aleti kullanmak,
+- Malzemelerimizi daha düzgün ölçüp,daha düzgün kesmek.
+
+
+
+
+
+
 
 
